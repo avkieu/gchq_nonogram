@@ -182,3 +182,5 @@ for column in vertical:
     genColDict.append(genCols)
 
 passThrough()
+
+#TODO Check For solution, run passthrough on loop until solved.
